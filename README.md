@@ -1,4 +1,4 @@
-# 👋 Hi, I'm IO720!
+# 👋 Hi, I'm Sunny!
 
 I'm a passionate **frontend developer** specializing in building visually stunning and interactive web applications.
 
